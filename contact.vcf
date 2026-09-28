@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-N:გვარი;სახელი;;;
-FN:სახელი გვარი
-ORG:კომპანიის სახელი
-TITLE:პოზიცია
-TEL;TYPE=CELL:+995555123456
-EMAIL;TYPE=PREF,INTERNET:info@example.com
+N:Beka;Zhvania;;;
+FN:Beka Zhvnia
+ORG:LTD ROBATRANZIT
+TITLE:გადამზიდი
+TEL;TYPE=CELL:+995579074933
+EMAIL;TYPE=PREF,INTERNET:ltdrobatranzit@gmail.com
 END:VCARD
